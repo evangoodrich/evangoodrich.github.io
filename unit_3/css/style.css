@@ -1,12 +1,12 @@
 
 body {
-	color: C6B4FF;
+	color: purple;
 	font-family: Helvetica;
-	background-image: src="images/heroimage.jpg"
+	background-color: grey
 
 }
 h1 {
-    color: 840CFF
+    color: white
     font weight: bold;
 }
 #slogan {
