@@ -2,11 +2,11 @@
 body {
 	color: C6B4FF;
 	font-family: Helvetica;
-	background-image: <img src="images/heroimage.jpg">
+	background-image: src="images/heroimage.jpg"
 
 }
 h1 {
-    color :840CFF
+    color: 840CFF
     font weight: bold;
 }
 #slogan {
