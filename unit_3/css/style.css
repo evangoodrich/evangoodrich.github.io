@@ -1,11 +1,17 @@
 
+@import url(https://fonts.googleapis.com/css?family=Catamaran:400,300);
+
 body {
+	font-family: 'Catamaran', sans-serif;
+	text-align: center;
 	color: purple;
 	font-family: Helvetica;
 	background-color: grey
 
 }
 h1 {
+    font-family: 'Catamaran', sans-serif;
+    text-align: center;
     color: white
     font weight: bold;
 }
