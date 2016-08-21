@@ -19,49 +19,49 @@ h1 {
 }
 
 header {
-	background-color: #FFED74;
+	background-color: #d7c6cf;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 nav {
-	background-color: #E8C66A;
+	background-color: #8caba8;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 aside {
-	background-color: #FFC675;
+	background-color: #83adb5;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 article {
-	background-color: #E89C6C;
+	background-color: #d7c6cf;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 footer {
-	background-color: #FF957E;
+	background-color: #8caba8;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 div/section {
-	background-color: #FFE2B8;
+	background-color: #83adb5;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: ##83adb5;
 	boarder: 1px black solid;
 	padding: 20px;
 }
 
 #left {
-	background-color: #E582A2;
+	background-color: ##d7c6cf;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -69,7 +69,7 @@ div/section {
 }
 
 #right {
-	background-color: #E55B88;
+	background-color: #8caba8;
 	boarder: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -86,5 +86,5 @@ div/section {
 }
 
 img {
-	width: 100px;
+	width: 200px;
 }
