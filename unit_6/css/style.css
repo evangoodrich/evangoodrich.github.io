@@ -84,3 +84,7 @@ div/section {
 	clear: both;
 	height: 0;
 }
+
+img {
+	width: 100px;
+}
