@@ -65,7 +65,7 @@ div/section {
 	border: 1px black solid;
 	padding: 5%;
 	float: left;
-	width: 30%;
+	width: 40%;
 	height: 30%;
 }
 
@@ -88,6 +88,5 @@ div/section {
 }
 
 img {
-	width: 10%;
-	height: 10%;
+	width: 30%;
 }
