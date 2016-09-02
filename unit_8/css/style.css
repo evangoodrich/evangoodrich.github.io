@@ -26,43 +26,43 @@ header {
 
 nav {
 	background-color: #8caba8;
-	border: 1px black solid;
+	border: 1% black solid;
 	padding: 5%;
 }
 
 aside {
 	background-color: #83adb5;
-	border: 1px black solid;
+	border: 1% black solid;
 	padding: 5%;
 }
 
 article {
 	background-color: #d7c6cf;
-	border: 1px black solid;
+	border: 1% black solid;
 	padding: 5%;
 }
 
 footer {
 	background-color: #8caba8;
-	border: 1px black solid;
+	border: 1% black solid;
 	padding: 5%;
 }
 
 div/section {
 	background-color: #83adb5;
-	border: 1px black solid;
+	border: 1% black solid;
 	padding: 5%;
 }
 
 #two_column {
 	background-color: ##83adb5;
-	boarder: 1px black solid;
+	boarder: 1% black solid;
 	padding: 5%;
 }
 
 #left {
 	background-color: ##d7c6cf;
-	border: 1px black solid;
+	border: 1% black solid;
 	padding: 5%;
 	float: left;
 	width: 38%;
@@ -70,7 +70,7 @@ div/section {
 
 #right {
 	background-color: #8caba8;
-	border: 1px black solid;
+	border: 1% black solid;
 	padding: 5%;
 	float: right;
 	width: 40%;
@@ -88,4 +88,23 @@ div/section {
 
 img {
 	width: 30%;
+}
+
+@media screen only and (max-width: 500px) {
+	body {
+		font-size: 10px;
+	}
+	h1 {
+		font-size: 12px;
+	}
+
+}
+
+@media screen only and (min-width: 100px) {
+	body {
+		font-size: 14px;
+	}
+	h1 {
+		font-size: 16 px;
+	}
 }
