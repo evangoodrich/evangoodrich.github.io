@@ -21,59 +21,61 @@ h1 {
 header {
 	background-color: #d7c6cf;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 }
 
 nav {
 	background-color: #8caba8;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 }
 
 aside {
 	background-color: #83adb5;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 }
 
 article {
 	background-color: #d7c6cf;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 }
 
 footer {
 	background-color: #8caba8;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 }
 
 div/section {
 	background-color: #83adb5;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 }
 
 #two_column {
 	background-color: ##83adb5;
 	boarder: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 }
 
 #left {
 	background-color: ##d7c6cf;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 	float: left;
 	width: 30%;
+	height: 30%;
 }
 
 #right {
 	background-color: #8caba8;
 	boarder: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 	float: right;
 	width: 62%;
+	height: 30%;
 }
 
 .clearfix:after {
@@ -86,5 +88,5 @@ div/section {
 }
 
 img {
-	width: 200px;
+	width: 20%;
 }
