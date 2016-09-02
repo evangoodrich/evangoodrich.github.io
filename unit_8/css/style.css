@@ -21,49 +21,49 @@ h1 {
 header {
 	background-color: #d7c6cf;
 	border: 1px black solid;
-	padding: 5%;
+	padding: 20px;
 }
 
 nav {
 	background-color: #8caba8;
 	border: 1px black solid;
-	padding: 5%;
+	padding: 20px;
 }
 
 aside {
 	background-color: #83adb5;
 	border: 1px black solid;
-	padding: 5%;
+	padding: 20px;
 }
 
 article {
 	background-color: #d7c6cf;
 	border: 1px black solid;
-	padding: 5%;
+	padding: 20px;
 }
 
 footer {
 	background-color: #8caba8;
 	border: 1px black solid;
-	padding: 5%;
+	padding: 20px;
 }
 
 div/section {
 	background-color: #83adb5;
 	border: 1px black solid;
-	padding: 5%;
+	padding: 20px;
 }
 
 #two_column {
 	background-color: ##83adb5;
 	boarder: 1px black solid;
-	padding: 5%;
+	padding: 20px;
 }
 
 #left {
 	background-color: ##d7c6cf;
 	border: 1px black solid;
-	padding: 5%;
+	padding: 20px;
 	float: left;
 	width: 30%;
 }
@@ -71,7 +71,7 @@ div/section {
 #right {
 	background-color: #8caba8;
 	boarder: 1px black solid;
-	padding: 5%;
+	padding: 20px;
 	float: right;
 	width: 62%;
 }
@@ -86,5 +86,5 @@ div/section {
 }
 
 img {
-	width: 20%;
+	width: 200px;
 }
